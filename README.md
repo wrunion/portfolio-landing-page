@@ -13,9 +13,6 @@ A simple portfolio landing page to showcase the projects I've created in the Epi
 * Commit, and push your changes back to GitHub.
 * Use Github pages to deploy your personal portfolio page!
 
-## Technologies Used
-
-(insert here)
 
 ## Known bugs
 None
