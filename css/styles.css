@@ -1,3 +1,5 @@
-h1.jumbotron {
-  float: right;
+body {
+  background-size: 500px;
+  background-repeat: repeat;
+  background-image: url(/Users/Amanda/desktop/programming-2019/epicodus-projects/epicodus-portfolio/media/olive-background-550-light.jpg);
 }
