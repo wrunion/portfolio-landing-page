@@ -18,7 +18,7 @@ A simple portfolio landing page to showcase the projects I've created in the Epi
 None.
 
 ## Contact
-If you have questions, feel free to reach out to help@willowfae.com.
+If you have questions, feel free to reach out to winterrunion@gmail.com.
 
 ## Legal
 
