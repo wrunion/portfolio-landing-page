@@ -15,7 +15,7 @@ A simple portfolio landing page to showcase the projects I've created in the Epi
 
 
 ## Known bugs
-None
+None.
 
 ## Contact
 If you have questions, feel free to reach out to help@willowfae.com.
