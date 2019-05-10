@@ -1,5 +1,19 @@
-body {
-  background-size: 500px;
-  background-repeat: repeat;
-  background-image: url(/Users/Amanda/desktop/programming-2019/epicodus-projects/epicodus-portfolio/media/olive-background-550-light.jpg);
+#top-car {
+  position: relative;
+  margin: 0 auto;
+}
+
+#top-car .content {
+  position: absolute;
+  top: 75%;
+  transform: translateY(-25%);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.5);
+  color: rgb(255,255,255); /* fallback color */
+  color: rgba(255,255,255,0.96);
+  text-shadow: 0 5px 10px rgba(0,0,0,0.7);
+  width: 65%;
 }
