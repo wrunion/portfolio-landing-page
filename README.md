@@ -24,4 +24,4 @@ If you have questions, feel free to reach out to winterrunion@gmail.com.
 
 Copyright (c) 2019 Winter Runion
 
-This code is licensed under the MIT license.
+This code is licensed under the MIT license. All image rights reserved.
