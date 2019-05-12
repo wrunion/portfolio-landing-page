@@ -51,3 +51,7 @@
   vertical-align: center;
   padding-top: 20px;
 }
+
+#email {
+  font-weight: bold;
+}
