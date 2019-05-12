@@ -55,3 +55,5 @@
 #email {
   font-weight: bold;
 }
+
+/*Note: I realize that the above formatting for #email would have been easier to do as an inline style using the <strong> tag. However, the project instructions called for us to use at least one <span> tag, and so I used one here.*/
