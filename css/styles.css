@@ -48,21 +48,31 @@
   padding: 1px 0;
 }
 
-#contact {
+/* #contact {
   text-align: center;
   color: #595959;
 }
 
 .contact {
   color: #808080;
-  font-size: x-large;
-  text-align: center;
+
   vertical-align: center;
   padding-top: 20px;
+} */
+
+
+#contact-section ul {
+  list-style-type: none;
+  margin-top: 10%;
 }
 
-#email {
-  font-weight: bold;
+
+
+#contact-section li {
+  text-align: center;
+  vertical-align: center;
+  font-size: 135%;
+  padding-bottom: 5px;
 }
 
 h2 {
