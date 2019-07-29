@@ -18,14 +18,23 @@
   width: 65%;
 }
 
-#about h2 {
+/* #content-main {
+  padding-left: 15px;
+  padding-right: 15px;
+} */
+
+#content-main h2 {
   color: #595959;
   text-align: center;
 }
 
-#about p {
+#content-main p {
   color: #808080;
   text-align: justify;
+}
+
+#content-main ul {
+  color: #808080;
 }
 
 .well li {
@@ -55,5 +64,13 @@
 #email {
   font-weight: bold;
 }
+
+h2 {
+  text-align: center;
+}
+
+/* ul {
+  list-style-type: none;
+} */
 
 /*Note: I realize that the above formatting for #email would have been easier to do as an inline style using the <strong> tag. However, the project instructions called for us to use at least one <span> tag, and so I used one here.*/
